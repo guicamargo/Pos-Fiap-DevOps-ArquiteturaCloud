@@ -86,28 +86,6 @@ devops-arquitetura-cloud/
 ├── projetos/
 └── README.md
 ```
-
----
-
-## 🚀 Como Usar Este Repo
-
-1. **Clone o repositório** na sua máquina
-2. **Navegue pelas fases** conforme progride no programa
-3. **Consulte as anotações** para revisar conceitos
-4. **Reutilize exemplos** práticos e comandos
-5. **Atualize constantemente** com novo aprendizado
-
----
-
-## 📌 Organização de Estudos
-
-Cada disciplina contém:
-- `README.md` - Resumo dos tópicos principais
-- `conceitos.md` - Explicações detalhadas
-- `ferramentas.md` - Tools utilizadas e comandos
-- `exemplos/` - Código e exemplos práticos
-- `referencias.md` - Links úteis e documentação
-
 ---
 
 **Status:** Em Desenvolvimento 🚀
