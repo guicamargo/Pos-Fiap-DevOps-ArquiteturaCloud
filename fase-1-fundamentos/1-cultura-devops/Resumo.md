@@ -497,9 +497,3 @@ Após entender a cultura DevOps, você está pronto para:
 - DevOps Days - Comunidade global (devopsdays.org)
 - The DevOps Handbook - Gene Kim, Jez Humble, Patrick Debois
 - Projeto CALMS - Culture, Automation, Lean, Measurement, Sharing
-
----
-
-**Última atualização:** Outubro 2025  
-**Disciplina:** Cultura DevOps (9h) - Fase 1  
-**Versão:** 1.0
